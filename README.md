@@ -1,17 +1,17 @@
 # XMLconverter
 
 
-Converts input text of the folloing format to xml:
+        Converts input text of the folloing format to xml:
 
-P|firstname|lastname
-T|mobile|landline
-A|street|city|zip
-F|name|year
+        P|firstname|lastname
+        T|mobile|landline
+        A|street|city|zip
+        F|name|year
 
-P can be followed by T, A and F
-F can be followed by T and A
+        P can be followed by T, A and F
+        F can be followed by T and A
 
-Works only when all input fields are given
+        Works only when all input fields are given
 
-Reads input file from stdIn
+        Reads input file from stdIn
 
